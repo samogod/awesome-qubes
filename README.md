@@ -35,8 +35,6 @@ This list is a collection of tools, projects, images and resources conforming to
       </ul>
     <li><a href="#online-communities">Online Communities</a></li>
     <li><a href="#releases">Releases</a></li>
-    <li><a href="Contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
