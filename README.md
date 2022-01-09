@@ -43,7 +43,7 @@ This list is a collection of tools, projects, images and resources conforming to
 ##### System Requirements
 
 * [System Requirements](https://www.qubes-os.org/doc/system-requirements/)
-* [Ceritfied Hardware](https://www.qubes-os.org/doc/certified-hardware/)
+* [Certified Hardware](https://www.qubes-os.org/doc/certified-hardware/)
 * [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 * [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
