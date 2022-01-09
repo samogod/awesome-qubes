@@ -187,10 +187,6 @@ This list is a collection of tools, projects, images and resources conforming to
 ## Contributing
 Contribution guidelines can be found [here](https://github.com/samet-g/awesome-qubes/blob/master/CONTRIBUTING.md)
 
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/samet-g/awesome-qubes/graphs/contributors"><img src="https://opencollective.com/awesome-qubes/contributors.svg?width=890" /></a>
-
 ## Releases
 
 * [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
