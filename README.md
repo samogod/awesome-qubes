@@ -48,7 +48,7 @@ This list is a collection of tools, projects, images and resources conforming to
 ##### Downloading, installing, and upgrading
 
 * [Downloading](https://www.qubes-os.org/downloads/)
-* [Installing)](https://www.qubes-os.org/doc/installation-guide/)
+* [Installing](https://www.qubes-os.org/doc/installation-guide/)
 * [Upgrading](https://www.qubes-os.org/doc/upgrade/)
 
 ## How-to guides
